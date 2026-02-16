@@ -74,6 +74,7 @@ En promedio, las predicciones difieren de los precios reales en alrededor de $16
 ## Autor
 
 Daniel Eduardo Tirado Muñoz
+
 Perfil de GitHub: https://github.com/danieltiradom
 
 ---
@@ -156,4 +157,5 @@ On average, predictions differ from actual prices by around $167,000.
 ## Author
 
 Daniel Eduardo Tirado Muñoz
+
 GitHub Profile: https://github.com/danieltiradom
